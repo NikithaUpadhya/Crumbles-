@@ -1,0 +1,14 @@
+flutter_native_splash:
+  color: "#ffffff"
+  color_dark: "#272727"
+  image: assets\images\banners\applogo.png
+  image_dark: assets\images\banners\applogo.png
+
+andriod_12:
+  color: "#ffffff"
+  color_dark: "#272727"
+  image: assets\images\banners\applogo.png
+  image_dark: assets\images\banners\applogo.png
+
+web: false
+

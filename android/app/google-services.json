@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "582609154062",
+    "project_id": "crumbles-fyp",
+    "storage_bucket": "crumbles-fyp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582609154062:android:0abe81215aad875bbb8c5f",
+        "android_client_info": {
+          "package_name": "com.apu.crumbles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582609154062-vo42jmdub9pb1fbpu6eukgvtamebio03.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.apu.crumbles",
+            "certificate_hash": "cba3e641bb840b6e00c474fd7cf6c065b255ac5c"
+          }
+        },
+        {
+          "client_id": "582609154062-lniq3nv3fnkd780dp3lm166t93kob64t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjuWAcQKSf1NT1RNzhR5oKcx79wsPjTKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582609154062-lniq3nv3fnkd780dp3lm166t93kob64t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "582609154062-edkdv24gbvtvtgukb54djbtubi90duuh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.crumblesApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582609154062:android:d523aead9ff36734bb8c5f",
+        "android_client_info": {
+          "package_name": "com.example.crumbles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582609154062-lniq3nv3fnkd780dp3lm166t93kob64t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjuWAcQKSf1NT1RNzhR5oKcx79wsPjTKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582609154062-lniq3nv3fnkd780dp3lm166t93kob64t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "582609154062-edkdv24gbvtvtgukb54djbtubi90duuh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.crumblesApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
